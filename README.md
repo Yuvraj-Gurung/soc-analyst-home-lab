@@ -53,3 +53,11 @@ This lab is designed to simulate a Security Operations Center (SOC) environment 
 
 <img src="project/image14.png"> <img src="project/image15.png"> <img src="project/image16.png"> <img src="project/image17.png"> <img src="project/image18.png"> <img src="project/image19.png"> <img src="project/image20.png"> <img src="project/image21.png"> <img src="project/image22.png"> <img src="project/image23.png"> <img src="project/image24.png"> <img src="project/image25.png">
 
+**Sysmon Installation**
+
+<img src="project/image26.png"> <img src="project/image27.png">
+
+**Installing LimaCharlie Sensor in Windows 10**
+
+<img src="project/image28.png"> <img src="project/image29.png"> <img src="project/image30.png"> <img src="project/image31.png"> <img src="project/image32.png"> <img src="project/image33.png"> <img src="project/image34.png"> <img src="project/image35.png"> <img src="project/image36.png"> <img src="project/image37.png"> <img src="project/image38.png">
+
