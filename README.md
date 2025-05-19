@@ -33,3 +33,10 @@ This lab is designed to simulate a Security Operations Center (SOC) environment 
 - Gain practical knowledge in detecting and mitigating cyber threats.  
 - Enhance skills in log analysis, incident response, and threat hunting.  
 - Improve understanding of adversary techniques used in real-world cyber attacks.
+
+
+## *Walkthrough | Screenshots*
+
+**Installing Ubuntu Server 24.04.1**
+
+<img src="project/image1.png"> <img src="project/image2.png"> <img src="project/image3.png"> <img src="project/image4.png"> <img src="project/image5.png"> <img src="project/image6.png"> <img src="project/image7.png">
