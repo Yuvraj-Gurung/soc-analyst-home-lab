@@ -69,3 +69,8 @@ This lab is designed to simulate a Security Operations Center (SOC) environment 
 
 <img src="project/image43.png"> <img src="project/image44.png"> <img src="project/image45.png"> <img src="project/image46.png"> <img src="project/image47.png"> <img src="project/image48.png"> <img src="project/image49.png"> <img src="project/image50.png"> <img src="project/image51.png"> <img src="project/image52.png">
 
+**Viewing Logs/Alerts in LimaCharlie**
+
+<img src="project/image53.png"> <img src="project/image54.png"> <img src="project/image55.png"> <img src="project/image56.png"> <img src="project/image57.png"> <img src="project/image58.png"> <img src="project/image59.png"> <img src="project/image60.png"> <img src="project/image61.png"> <img src="project/image62.png"> <img src="project/image63.png">
+
+
