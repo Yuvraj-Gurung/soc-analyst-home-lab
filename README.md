@@ -61,3 +61,11 @@ This lab is designed to simulate a Security Operations Center (SOC) environment 
 
 <img src="project/image28.png"> <img src="project/image29.png"> <img src="project/image30.png"> <img src="project/image31.png"> <img src="project/image32.png"> <img src="project/image33.png"> <img src="project/image34.png"> <img src="project/image35.png"> <img src="project/image36.png"> <img src="project/image37.png"> <img src="project/image38.png">
 
+**Creating New Artifact Rule In LimaCharlie**
+
+<img src="project/image39.png"> <img src="project/image40.png"> <img src="project/image41.png"> <img src="project/image42.png">
+
+**Generating Sliver C2 payload and Running in Windows 10**
+
+<img src="project/image43.png"> <img src="project/image44.png"> <img src="project/image45.png"> <img src="project/image46.png"> <img src="project/image47.png"> <img src="project/image48.png"> <img src="project/image49.png"> <img src="project/image50.png"> <img src="project/image51.png"> <img src="project/image52.png">
+
