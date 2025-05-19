@@ -40,3 +40,12 @@ This lab is designed to simulate a Security Operations Center (SOC) environment 
 **Installing Ubuntu Server 24.04.1**
 
 <img src="project/image1.png"> <img src="project/image2.png"> <img src="project/image3.png"> <img src="project/image4.png"> <img src="project/image5.png"> <img src="project/image6.png"> <img src="project/image7.png">
+
+**Sliver C2 Installation**
+
+<img src="project/image8.png">
+
+**Windows 10 Installation**
+
+<img src="project/image9.png"> <img src="project/image10.png"> <img src="project/image11.png"> <img src="project/image12.png"> <img src="project/image13.png">
+
