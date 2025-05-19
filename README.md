@@ -49,3 +49,7 @@ This lab is designed to simulate a Security Operations Center (SOC) environment 
 
 <img src="project/image9.png"> <img src="project/image10.png"> <img src="project/image11.png"> <img src="project/image12.png"> <img src="project/image13.png">
 
+**Disabling Windows Security**
+
+<img src="project/image14.png"> <img src="project/image15.png"> <img src="project/image16.png"> <img src="project/image17.png"> <img src="project/image18.png"> <img src="project/image19.png"> <img src="project/image20.png"> <img src="project/image21.png"> <img src="project/image22.png"> <img src="project/image23.png"> <img src="project/image24.png"> <img src="project/image25.png">
+
